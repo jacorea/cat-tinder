@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>
-      Header
+    <div className="section">
+      <h1 className="title">CatBook</h1>
     </div>
   )
 }
